@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-mesh",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "NLM MeSH (Medical Subject Headings) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d1b57ef57bc47a085b56cef99580ba6c73dcd6fed06ee539d33ff3507ba95d14",
-    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
+    "sourceHash": "v1-500d58d70060a8a8a0a61d999a7ed6106cb519673959c0082be45003636ae92a",
+    "sourceCommit": "ba9dd6df5992aeb16ef2425ee86d1752c34ca636"
   }
 }
