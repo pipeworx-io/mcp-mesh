@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-mesh",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NLM MeSH (Medical Subject Headings) MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "mesh",
     "gatewaySlug": "mesh",
-    "sourceHash": "v1-2648a9e3620ed69cdc93925841c4d476427fad64345ecf76220ac16c40aa949f",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-fc77e3ed7f503146787683d3c90c676f61a1a4581a117026e65864cf6a94d377",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
